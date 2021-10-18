@@ -259,7 +259,7 @@ main {
     font-size: 1rem;
     top: 50%;
     transform: translateY(-50%);
-    padding: 0.3rem 0.7rem;
+    padding: 0.6rem 0.7rem;
   }
 
   .btn::first-letter {
@@ -282,11 +282,11 @@ main {
     height: 3.5rem;
   }
   .btn--roll {
-    top: 23rem;
+    top: 22rem;
     left: 30rem;
   }
   .btn--hold {
-    top: 27rem;
+    top: 28rem;
     left: 30rem;
   }
 }
